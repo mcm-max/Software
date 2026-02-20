@@ -37,3 +37,4 @@ def validate_password(pw: str) -> bool:
                 return False
 
     return True
+
